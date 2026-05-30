@@ -6,19 +6,19 @@
   --wght-text: 410;
   --gradient: 
     repeating-linear-gradient(
-      to right,
+      90deg,
       #d3d3d3 0 2px, 
-      transparent 2px 4px
+      rgb(0 0 0 / 0) 2px 4px
     ),
     repeating-linear-gradient(
-      to bottom,
+      180deg,
       #d3d3d3 0 2px, 
-      transparent 2px 4px
+      rgb(0 0 0 / 0) 2px 4px
     ),
     linear-gradient(
-      to bottom,
+      180deg,
       #e7e7e7 0.01%,
-      #1a1a1a 
+      #1a1a1a 100%
     );
   --text-stroke: 1px #fff;
   --main-border: 2px solid #000;
